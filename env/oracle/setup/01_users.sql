@@ -1,0 +1,3 @@
+ALTER SESSION SET CONTAINER = Respawn1;
+
+CREATE USER test_user IDENTIFIED BY "some-password";
